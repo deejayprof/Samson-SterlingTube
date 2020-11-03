@@ -153,14 +153,14 @@ footer {
 }
 
 .menu-search-box {
-    padding-right: 250px;
+    width: 200px;
     border: solid 1px black;
     border-radius: 0;
     box-shadow: none !important;
 }
 
 form .btn {
-    border-radius: 0;
+    border-radius: 20;
     background-color: #f8f8f8
 }
 
